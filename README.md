@@ -1,5 +1,20 @@
 # Friend Finder - Node and Express Servers
 
+
+## Instructions
+
+Check the screenshots for the order of how it should work! 
+Homepage is what will show when you launch the website 
+Once you click on the button it will then take you to the survey
+On the survey you must fill out your name and link an image of a photo
+NEXT answer the questions to how you would feel about them
+Click on submit and see what the character you got is!
+The website it also deployed on Heroku: https://dashboard.heroku.com/apps/infinite-tundra-21045
+
+
+Enjoy the website!
+
+
 ### Overview
 
 In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
