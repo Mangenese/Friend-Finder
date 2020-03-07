@@ -9,7 +9,7 @@ Once you click on the button it will then take you to the survey
 On the survey you must fill out your name and link an image of a photo
 NEXT answer the questions to how you would feel about them
 Click on submit and see what the character you got is!
-The website it also deployed on Heroku: https://dashboard.heroku.com/apps/infinite-tundra-21045
+The website it also deployed on Heroku: https://infinite-tundra-21045.herokuapp.com/
 
 
 Enjoy the website!
