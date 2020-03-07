@@ -1,4 +1,3 @@
-// JS file that will hold our friend array
 var friends = [
 	{
 		name: 'Naruto',
