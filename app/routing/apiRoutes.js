@@ -36,7 +36,7 @@ module.exports = function(app) {
         totalDifference += difference;
       }
 
-      // if there is a new minimum, change the best friend index and set the new minimum for next iteration comparisons
+      
       if(totalDifference < minimumDifference) {
         bestFriendIndex = i;
         minimumDifference = totalDifference;
